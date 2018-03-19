@@ -5,7 +5,6 @@
 export default class Nlp {
   constructor(props = {}) {
     this.props = props;
-    return this.analyze();
   }
 
   analyze(string) {
