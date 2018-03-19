@@ -1,0 +1,39 @@
+{
+    "hi": "greetings",
+    "hi hey hi": "greetings",
+    "hey": "greetings",
+    "hello": "greetings",
+    "how are you": "greetings",
+    "how you": "greetings",
+    "how you doing": "greetings",
+    "whats up": "greetings",
+
+    "bye": "bye",
+    "goodbye": "bye",
+    "see ya": "bye",
+    "later": "bye",
+
+    "thanks": "thanks",
+    "cheers": "thanks",
+    "thank you": "thanks",
+
+    "are you real": "real",
+    "are you human": "real",
+    "are you a robot": "real",
+    "are you a bot": "real",
+
+    "who created you": "creator",
+
+    "are you a man": "gender",
+    "are you a woman": "gender",
+    "are you male": "gender",
+    "are you female": "gender",
+    "whats your gender": "gender",
+    "what is your gender": "gender",
+    "gender": "gender",
+
+    "whats your name": "name",
+    "what is your name": "name",
+
+    "help": "help"
+}

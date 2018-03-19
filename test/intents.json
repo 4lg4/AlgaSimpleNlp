@@ -1,0 +1,105 @@
+{
+    "greetings": {
+        "intent": "greetings",
+        "states": {
+            "conversation": "convo",
+            "state": "greetings"
+        },
+        "phrases": [
+            "Hi, nice to meet you. 1",
+            "Hi, nice to meet you. 2",
+            "Hi, nice to meet you. 3"
+        ]
+    },
+
+    "bye": {
+        "intent": "bye",
+        "states": {
+            "conversation": "convo",
+            "state": "bye"
+        },
+        "phrases": [
+            "Bye for now 1",
+            "Bye for now 2",
+            "Bye for now 3"
+        ]
+    },
+
+    "thanks": {
+        "intent": "thanks",
+        "states": {
+            "conversation": "convo",
+            "state": "thanks"
+        },
+        "phrases": [
+            "No problem, I'm happy to help 1",
+            "No problem, I'm happy to help 2",
+            "No problem, I'm happy to help 3"
+        ]
+    },
+
+    "real": {
+        "intent": "real",
+        "states": {
+            "conversation": "convo",
+            "state": "real"
+        },
+        "phrases": [
+            "I'm a bot. Not the Terminator kind, more the helpful buddy type. 1",
+            "I'm a bot. Not the Terminator kind, more the helpful buddy type. 2",
+            "I'm a bot. Not the Terminator kind, more the helpful buddy type. 3"
+        ]
+    },
+
+    "creator": {
+        "intent": "creator",
+        "states": {
+            "conversation": "convo",
+            "state": "creator"
+        },
+        "phrases": [
+            "My mum and dad 1",
+            "My mum and dad 2",
+            "My mum and dad 3"
+        ]
+    },
+
+    "gender": {
+        "intent": "gender",
+        "states": {
+            "conversation": "convo",
+            "state": "gender"
+        },
+        "phrases": [
+            "Gender is so last year! I’d like to sit on the fence. 1",
+            "Gender is so last year! I’d like to sit on the fence. 2",
+            "Gender is so last year! I’d like to sit on the fence. 3"
+        ]
+    },
+
+    "name": {
+        "intent": "name",
+        "states": {
+            "conversation": "convo",
+            "state": "name"
+        },
+        "phrases": [
+            "I'm called The BOT. 1",
+            "I'm called The BOT. 2",
+            "I'm called The BOT. 3"
+        ]
+    },
+
+    "help": {
+        "intent": "help",
+        "states": {
+            "conversation": "convo",
+            "state": "menu"
+        },
+        "phrases": [
+            "menu 1",
+            "menu 2",
+            "menu 3"
+        ]
+    }
+}

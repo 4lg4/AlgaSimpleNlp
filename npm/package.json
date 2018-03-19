@@ -1,0 +1,21 @@
+{
+  "name": "AlgaSimpleNlp",
+  "version": "1.0.0",
+  "description": "Simple NLP module using regex and returning the user content based on a JSON training file",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4lg4/AlgaSimpleNlp.git"
+  },
+  "keywords": [
+    "nlp",
+    "javascript",
+    "node"
+  ],
+  "author": "Alga.me",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/4lg4/AlgaSimpleNlp/issues"
+  },
+  "homepage": "https://github.com/4lg4/AlgaSimpleNlp#readme"
+}
